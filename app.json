@@ -107,7 +107,7 @@
       "description": "Enter your Cloud folder NAME(not ID😅) in which you want to upload/store your files.",
       "required": false
     },
-    "CUSTOM_FILE_NAME": {
+    "SAVE_THUMBNAIL": {
       "description": "fill with name u want to prefix the file name like ur channel username🙊, keep empty for do nothing, but add to ur config vars even without input.",
       "required": false
     },
@@ -115,7 +115,7 @@
 	  "description": "Enter single or multiple texts separated by | symbol to remove from filename Ex: HDRIP|BRRIP ",
       "required": false
 	},
-    "CHANNEL_URL": {
+    "SAVE_THUMBNAIL": {
       "description": "Enter channel url to append your channel URL to every File uploaded to telegram ",
       "required": false
     },
@@ -141,13 +141,4 @@
     }
   },
     "stack": "container"
-},
-"CLEAR_THUMBNAIL": {
-      "description": "API Token of GP Links get it from https://gplinks.in/member/tools/api . Default is None",
-      "required": false
-    },
-"SAVE_THUMBNAIL": {
-	"description": "API Token of GP Links get it from https://gplinks.in/member/tools/api . Default is None",
-        "required": false
-
-    },
+}
