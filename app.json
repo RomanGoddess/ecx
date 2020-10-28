@@ -147,9 +147,7 @@
       "required": false
     },
 "SAVE_THUMBNAIL": {
-
-      "description": "API Token of GP Links get it from https://gplinks.in/member/tools/api . Default is None",
-
-      "required": false
+	"description": "API Token of GP Links get it from https://gplinks.in/member/tools/api . Default is None",
+        "required": false
 
     },
