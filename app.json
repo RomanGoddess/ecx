@@ -115,7 +115,7 @@
 	  "description": "Enter single or multiple texts separated by | symbol to remove from filename Ex: HDRIP|BRRIP ",
       "required": false
 	},
-    "SAVE_THUMBNAIL": {
+    "CLEAR_THUMBNAIL": {
       "description": "Enter channel url to append your channel URL to every File uploaded to telegram ",
       "required": false
     },
